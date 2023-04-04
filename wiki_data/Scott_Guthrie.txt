@@ -1,0 +1,13 @@
+Scott Guthrie is Executive Vice President of the Cloud and AI group in Microsoft.[1]
+
+He leads the teams that deliver Microsoft Azure, Dynamics 365, Visual Studio, Visual Studio Code, GitHub, .NET, Hololens, Microsoft SQL Server, Power BI and Power Apps.
+
+Guthrie graduated with a degree in computer science from Duke University.[2] Following this, he joined Microsoft in 1997.[1] He frequently presents wearing a signature red shirt [3] and speaks at many of the major Microsoft conferences.
+
+He is also known for his work on ASP.NET, which he and colleague Mark Anders developed while at Microsoft.[4]
+
+References
+ "Satya Nadella email to employees on tuning our organization". Microsoft News Center. March 2014. Retrieved 2014-04-01.
+ "Scott Guthrie's Executive Biography". Microsoft News Center. Retrieved 2014-04-01.
+ Wingfield, Nick (2009-03-19). "Microsoft Exec: Red Polos, To Us, Are Like Turtlenecks to Steve Jobs". The Wall Street Journal.
+ "Architecture Journal Profile: Scott Guthrie". Microsoft Developer Network. January 2007. Retrieved 2007-09-06.

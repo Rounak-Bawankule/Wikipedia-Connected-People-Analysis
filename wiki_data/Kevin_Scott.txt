@@ -1,0 +1,38 @@
+Kevin Scott (born 1972) serves as Chief Technology Officer at Microsoft.[1] He was previously Senior Vice President of Engineering and Operations at LinkedIn from February 2011 – January 2017.[2][3]
+
+Education
+Kevin Scott grew up in Gladys, Virginia.[4][5] He holds a bachelor's degree from Lynchburg College in computer science and a master's degree from Wake Forest University in computer science.
+
+He enrolled in a Ph.D. program at the University of Virginia.[6]
+
+Career
+Kevin Scott started his career at Google in 2003 and held numerous positions in search and ads engineering, including receiving a Google Founders' Award, before leaving the company in 2007.[7] He was VP of engineering and operations at AdMob from July 2007 to June 2010.[8] Google acquired AdMob in 2010 for $750 million and Scott became Sr. Engineering Director of mobile ads engineering at Google.[9]
+
+LinkedIn
+Kevin Scott joined professional networking site LinkedIn in February 2011, as senior vice president for engineering.[10] LinkedIn held its initial public offering in May 2011 and Scott was credited with scaling the company's computer systems to keep up with accelerating demand.[11] Business Insider called Scott "the engineer who saved LinkedIn".[12]
+
+Microsoft
+In January 2017, soon after Microsoft acquired LinkedIn, Scott was named Microsoft's Chief Technology Officer by CEO Satya Nadella.[13] He retained the title of senior vice president of infrastructure at LinkedIn until September 2017.[14] Scott described himself as feeling "like a kid in a candy store" because of all the exciting technologies Microsoft is working on.[6]
+
+Nonprofits and boards
+Kevin Scott is the founder of Behind The Tech, a non-profit organization that profiles people that work in technology on its website through photographs and interviews with the goal of inspiring others.[15] In 2014, Kevin and his wife Shannon Hunt-Scott created The Scott Foundation, a San Francisco Bay Area organization that focuses on issues such as education, hunger and STEM for children. He is also an emeritus trustee of the Anita Borg Institute[16] and was a founding member of the ACM Professions Board.[17] He advises several startups, is on the board of directors for Magic and is an angel investor.[18] Since January 17, 2021, he is member of the board of directors of the automobile manufacturer Stellantis as non-executive Director and member of the ESG Committee.[19]
+
+References
+ Reuters (2017-01-24). "Microsoft just announced its newest chief technology officer". Business Insider. Retrieved 2018-06-08. {{cite news}}: |last= has generic name (help)
+ "LinkedIn Promotes Kevin Scott to Senior Vice President of Engineering". news.linkedin.com. 2012-02-09. Retrieved 2018-06-08.
+ Tate, Ryan (2013-04-10). "The Software Revolution Behind LinkedIn's Gushing Profits". WIRED. Retrieved 2018-06-08.
+ "Microsoft's Kevin Scott Says He's 'Reprogramming the American Dream'". Retrieved Apr 9, 2020.
+ "A conversation with Kevin Scott, author of "Reprogramming the American Dream"". The AI Blog. Apr 3, 2020. Retrieved Apr 9, 2020.
+ Day, Matt (2017-05-11). "Feeling like 'a kid in a candy store,' CTO Kevin Scott's job is to keep Microsoft focused". The Seattle Times. Retrieved 2018-06-08.
+ Kee, Tameka (2007-10-18). "Senior Engineer Leaves Google To Become AdMob's 'Quality Guru'". Retrieved 2018-06-14.
+ Contributor (2007-10-16). "Exclusive: AdMob Snares Google's Kevin Scott". Techcrunch. Retrieved 2018-06-08. {{cite web}}: |last= has generic name (help)
+ Rao, Leena (2011-02-07). "Another AdMob Exec Leaves Google; Kevin Scott Joins LinkedIn As VP Of Engineering". Techcrunch. Retrieved 2018-06-08.
+ Frommer, Dan (2011-02-07). "Google Loses Another AdMob Exec As Tech Guru Flees For LinkedIn". Business Insider. Retrieved 2018-06-08.
+ Vance, Ashley (2013-04-12). "Inside Operation InVersion, the Code Freeze That Saved LinkedIn". Bloomberg.com. Retrieved 2018-06-08.
+ Smith, Kevin (2013-04-11). "Meet The Engineer Who Saved LinkedIn". Business Insider. Retrieved 2018-04-09.
+ Greene, Jay (2017-01-24). "Microsoft Names LinkedIn Executive to Tech Chief Role". Wall Street Journal. Retrieved 2018-04-09.
+ Heater, Brian (2017-01-24). "Microsoft names LinkedIn SVP Kevin Scott as CTO". Techcrunch. Retrieved 2018-06-08.
+ Bellstrom, Kristen (2017-10-03). "Why Microsoft's CTO Is Photographing the Diverse People Who Build Your Tech". Fortune. Retrieved 2018-06-08.
+ "AnitaB.org Board of Trustees - AnitaB.org". AnitaB.org. Retrieved 2018-06-08.
+ "ACM Membership Boards". design.acm.org. Retrieved 2018-06-08.
+ Foley, Mary Jo (2017-01-24). "Microsoft names LinkedIn infrastructure chief as company CTO". ZDNet. Retrieved 2018-06-08.
